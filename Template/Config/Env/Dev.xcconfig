@@ -1,0 +1,5 @@
+#include "Pods/Target Support Files/Pods-Template/Pods-Template.dev.xcconfig"
+
+// App Settings
+APP_NAME      = Template (Dev)
+APP_BUNDLE_ID = com.gaenael.template-Dev
